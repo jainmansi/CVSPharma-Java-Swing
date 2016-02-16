@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/UpdateSupplierJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/StoreAdmin/UpdateDrugJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/BrowseStoreJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/StoreAdmin/ManageInventoryJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/AdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/BusinessLogic/Drug.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/StoreAdmin/LoginJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/BusinessLogic/Inventory.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/BusinessLogic/Supplier.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/BusinessLogic/DrugCatalog.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/StoreInventoryJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/ManageSupplierJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/Supplier/ManageDrugsJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/CreateStoreJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/CreateDrugJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/DrugCatalogJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/ManageStoreJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/CreateSupplierJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/ManageDrugJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/StoreAdmin/AddDrugJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/BusinessLogic/InventoryItem.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/StoreAdmin/ViewDrugJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/MainJFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/BusinessLogic/SupplierDirectory.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/Supplier/CreateDrugJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/CvsAdmin/UpdateStoreJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/StoreAdmin/StoreWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/BusinessLogic/StoreDirectory.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/Supplier/LoginJPanel.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/BusinessLogic/Store.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Assignment4/src/UserInterface/Supplier/SupplierWorkAreaJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
